@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>AdminServer</artifactId>
+	<artifactId>SpringBootActuator-AdminServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AdminServer</name>
+	<name>SpringBootActuator-AdminServer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -38,10 +38,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
 	</dependencies>
 
